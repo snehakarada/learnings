@@ -5,7 +5,7 @@ What is Object?
   - Keys - string  
   - Values - anything - string, number, boolean, arrays, objects
 How to access the attributes?
-  - by keys  - with square bracket - object["key]
+  - by keys  - with square bracket - object["key"]
               - with . - object.key
 Not defined Vs undefined
 Not defined - variable is not defined
